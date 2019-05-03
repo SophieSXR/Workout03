@@ -1,9 +1,9 @@
 ---
-title: "README"
-author: "Xinran-Song"
-date: "2019/5/3"
-output: html_document
+output:
+  github_document:
+    html_preview: false
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
