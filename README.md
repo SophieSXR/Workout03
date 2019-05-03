@@ -16,19 +16,19 @@ Overview
 
 -   `plot()` function gives you a line plot of the cumulative distribution.
 
-\*`bin_variable()` gives the binomial variable with class `"binvar"`. It prints out the parameters.
+-   `bin_variable()` gives the binomial variable with class `"binvar"`. It prints out the parameters.
 
-\*`summary()` functions gives you a summary of the variable: mean, variable, mode, skewness, kurtosis.
+-   `summary()` functions gives you a summary of the variable: mean, variable, mode, skewness, kurtosis.
 
-\*`bin_mean()` calculates mean of binomial distributions.
+-   `bin_mean()` calculates mean of binomial distributions.
 
-\*`bin_variance()` calculates variance of binomial.
+-   `bin_variance()` calculates variance of binomial.
 
-\*`bin_mode()` calculates mode of binomial distributions.
+-   `bin_mode()` calculates mode of binomial distributions.
 
-\*`bin_skewness()` calculates skewness of binomial distributions.
+-   `bin_skewness()` calculates skewness of binomial distributions.
 
-\*`bin_kurtosis()` calculates kurtosis of binomial distributions
+-   `bin_kurtosis()` calculates kurtosis of binomial distributions
 
 Motivation
 ----------
